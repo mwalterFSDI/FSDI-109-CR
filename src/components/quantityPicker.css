@@ -1,0 +1,15 @@
+label{
+    color: rgb(19, 18, 18);
+    text-align: justify;
+}
+
+.quantitypicker{
+    padding: 12px;
+}
+
+
+.quantitypicker .btn {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
